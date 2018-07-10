@@ -1,0 +1,16 @@
+body{
+  font-family: Comic Sans MS;
+  font-size: 65px;
+  background-color: #E8DAEF;
+}
+
+#myButton{
+  background-color: #D5F5E3;
+  font-family: Comic Sans MS;
+  font-size: 65px;
+  border-radius: 50px;
+}
+
+#aboutMe{
+  display: none;
+}
